@@ -98,7 +98,7 @@ const imageHander = async (action, v) => {
         };
     };
 ````
-## 扩展modules
+## 工具栏扩展
 当modules工具栏中的内容不足以满足时，使用扩展modules的方法
 >使用方法如下
 >

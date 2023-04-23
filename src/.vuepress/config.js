@@ -38,7 +38,7 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: '文档',
+        text: '避坑指南',
         link: '/guide/',
       },
       // {
@@ -53,7 +53,7 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: '文档',
+          title: '避坑指南',
           collapsable: false,
           children: [
             '',
@@ -61,6 +61,9 @@ module.exports = {
             'Aliyun-upLoad',
             'Aliyun-player',
             'Html2-canvas',
+            'echarts',
+            'css',
+            'swiper-react',
             'using-vue',
           ]
         }
